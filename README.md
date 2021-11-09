@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zohar Mosseri (@mosserii)
 - 👀 I’m interested in getting an A+ in software1 course
-- 🌱 I’m currently learning Computer Science and Physics
+- 🌱 I’m currently learning Computer Science and Economics 
 - 📫 How to reach me zoharmosseri@mail.tau.ac.il
 
 <!---
