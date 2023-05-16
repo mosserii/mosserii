@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Zohar Mosseri (@mosserii)
 - 🌱 I’m currently learning Computer Science and Economics 
+- 👻 Check out my Information-Security repository, it is cool!
 - 📫 How to reach me zoharmosseri@mail.tau.ac.il
 
 <!---
