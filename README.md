@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zohar Mosseri (@mosserii)
-- 🌱 I’m currently studying Computer Science and Economics 
+- 👨🏻‍💻 I’m currently studying Computer Science and Economics 
 - 👻 Check out my Information-Security repository, it's cool!
 - 📫 How to reach me zoharm500@gmail.com
 
