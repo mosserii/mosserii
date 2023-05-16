@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zohar Mosseri (@mosserii)
-- 🌱 I’m currently learning Computer Science and Economics 
-- 👻 Check out my Information-Security repository, it is cool!
+- 🌱 I’m currently studying Computer Science and Economics 
+- 👻 Check out my Information-Security repository, it's cool!
 - 📫 How to reach me zoharm500@gmail.com
 
 <!---
